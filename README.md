@@ -1,2 +1,2 @@
 # assignment_projects
-small assingment projects
+Interesting assignments

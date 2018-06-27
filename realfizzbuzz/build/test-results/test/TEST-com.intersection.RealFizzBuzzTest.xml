@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.intersection.RealFizzBuzzTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-06-26T21:20:04" hostname="LT-AMuthukumarasamy" time="0.085">
+  <properties/>
+  <testcase name="assertAssignment3AddTestOutput" classname="com.intersection.RealFizzBuzzTest" time="0.035"/>
+  <testcase name="assertAssignment2AddTestOutput" classname="com.intersection.RealFizzBuzzTest" time="0.014"/>
+  <testcase name="assertAssignment1Rainy1Scenario" classname="com.intersection.RealFizzBuzzTest" time="0.022"/>
+  <testcase name="assertAssignment1AddTestOutput" classname="com.intersection.RealFizzBuzzTest" time="0.001"/>
+  <testcase name="assertAssignment2Sample" classname="com.intersection.RealFizzBuzzTest" time="0.001"/>
+  <testcase name="assertAssignment3Sample" classname="com.intersection.RealFizzBuzzTest" time="0.001"/>
+  <testcase name="assertAssignment2Rainy1Scenario" classname="com.intersection.RealFizzBuzzTest" time="0.0"/>
+  <testcase name="assertAssignment3Rainy1Scenario" classname="com.intersection.RealFizzBuzzTest" time="0.0"/>
+  <testcase name="assertAssignment1SampleOutput" classname="com.intersection.RealFizzBuzzTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
